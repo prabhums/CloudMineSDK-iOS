@@ -29,7 +29,7 @@ target 'cloudmine-ios' do
   #
   # The Pods for CloudMine SDK usage. AFNetworking for networking
   #
-  pod 'AFNetworking', '2.6.3'
+  pod 'AFNetworking', '~> 3.0'
 
   #
   # The Pods for testing the iOS SDK. Kiwi is our BDD testing framework
